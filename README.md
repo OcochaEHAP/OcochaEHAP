@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web devlopment, Cybersecurity and everything about tech and computer
 - 🏴 I’m from Algeria 
 - 😊 I’m 14 years old [reached it in 23th april]
-- 🌱 I’m currently learning sass
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to become a pro at Cybersecurity
 - 📫 How to reach me: oussaamayachebbb@outlook.com
 
